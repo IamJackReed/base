@@ -1,12 +1,10 @@
-- name: Tutorials
-  link: /
-- name: Videos
-  link: /videos/
-- name: FAQ
-  link: /faq/
 - name: Development Team
   link: /development-team/
 - name: Product Owner
   link: /product-owner/
 - name: Scrum Master
   link: /scrum-master/
+- name: Videos
+  link: /videos/
+- name: FAQ
+  link: /faq/
