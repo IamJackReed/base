@@ -3,7 +3,6 @@ layout: default
 ---
 
 <section class="tutorial">
-	<section class="sidebar sticky">
 		<ul>
 			{% assign sub_navigation = content | extract_element: 'h2' %}
 			{% for item in sub_navigation %}
@@ -27,7 +26,7 @@ layout: default
 				</div>
 			{% endif %}
 		{% endif %}
-		
+
 		<div class="tutorial-main">
 			{{ content }}
 		</div>
