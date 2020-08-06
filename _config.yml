@@ -2,8 +2,8 @@
 # Site
 
 title: Scrum Links
-url: "https://iamjackreed.github.io/"
-baseurl: "base/"
+url: "https://iamjackreed.github.io/base"
+baseurl: 
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
