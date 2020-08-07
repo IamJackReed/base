@@ -3,14 +3,14 @@
 
 title: Scrum Links
 url: "https://iamjackreed.github.io/base"
-baseurl: 
+baseurl:
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Knowledge base for Scrum.
 author:
   name:
   email:
