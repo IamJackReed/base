@@ -6,13 +6,13 @@ categories:
 description: "Developing People and Teams"
 type: Document
 ---
-### How to Build Trust to Enable Agility
+#### How to Build Trust to Enable Agility
 This [blog](https://www.scrum.org/resources/blog/how-build-trust-enable-agility) dives deep into how you can use BRAVING and the Scrum Values to build and enable trust in your environment.
 
-### Coaching Secret: Stop being so helpful
+#### Coaching Secret: Stop being so helpful
 This [blog](https://www.agilesocks.com/coaching-secrets-stop-being-helpful/) re-evaluates what it means to be helpful and how a coaching stance can help us serve others in a meaningful way.
 
-### Psychological Models In Scrum
+#### Psychological Models In Scrum
 This [webinar](https://youtu.be/fyDYpGCuvaA) features three psychological models - Learning, Responsibility, and Power - which could help Scrum Masters in their daily activities.
 
 ### Do You Know any Coaching Patterns?
