@@ -3,7 +3,7 @@ date: 2020-08-06
 title: Coaching & Mentoring
 categories:
   - scrum-mastery
-description: "Update your email address"
+description: "Coaching and mentoring are development approaches based on the use of one-to-one conversations to enhance an individual's skills, knowledge or work performance. It's possible to draw distinctions between coaching and mentoring although in practice the two terms are often used interchangeably."
 type: Document
 ---
 ### How to Build Trust to Enable Agility
