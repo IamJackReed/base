@@ -13,7 +13,7 @@ This [blog](https://www.scrum.org/resources/blog/how-build-trust-enable-agility)
 This [blog](https://www.agilesocks.com/coaching-secrets-stop-being-helpful/) re-evaluates what it means to be helpful and how a coaching stance can help us serve others in a meaningful way.
 
 ## Psychological Models In Scrum
-This [webinar](https://www.scrum.org/resources/psychological-models-scrum) features three psychological models - Learning, Responsibility, and Power - which could help Scrum Masters in their daily activities.
+This [webinar](https://youtu.be/fyDYpGCuvaA) features three psychological models - Learning, Responsibility, and Power - which could help Scrum Masters in their daily activities.
 
 ## Do You Know any Coaching Patterns?
 This [blog](https://www.scrum.org/resources/blog/do-you-know-any-coaching-patterns) looks into understanding the Socratic Method of asking a lot of questions and to stimulate critical thinking.
