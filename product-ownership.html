@@ -1,0 +1,28 @@
+---
+product-ownership:
+  - question: Understanding and Applying Scrum
+    answer: Empiricism, Scrum Values, Scrum Roles, Scrum Events, Scrum Artifacts, Sprint Goal, Done , Scaling Scrum
+  - question: Developing People and Teams
+    answer: Facilitation, Leadership Styles, Coaching and Mentoring
+  - question: Managing Products with Agility
+    answer: Forecasting and Release Planning, Product Vision, Product Value, Product Backlog Management
+  - question: Developing and Delivering Products Professionally
+    answer: Emergent Software Development, Managing Technical Risk, Optimizing Flow
+  - question: Evolving the Agile Organisation
+    answer: Organisational Design and Culture, Evidence-Based Management
+---
+
+<h1>Product Ownership</h1>
+
+<section class="product-ownership">
+	<ul>
+		{% for item in page.product-ownership %}
+			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
+		{% endfor %}
+	</ul>
+
+	{% for item in page.product-ownership %}
+		<h2 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h2>
+		{{ item.answer | markdownify }}
+	{% endfor %}
+</section>
