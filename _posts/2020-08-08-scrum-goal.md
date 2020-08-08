@@ -1,6 +1,6 @@
 ---
 date: 2020-08-06
-title: Scrum Values
+title: Scrum Goals
 categories:
   - scrum-mastery
 description: "Understanding and Applying Scrum"

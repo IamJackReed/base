@@ -1,6 +1,6 @@
 ---
 date: 2020-08-06
-title: Scrum Events
+title: Scrum Roles
 categories:
   - scrum-mastery
 description: "Understanding and Applying Scrum"
