@@ -10,7 +10,7 @@ type: Document
 This [blog](https://www.scrum.org/resources/blog/culture-change-important-ingredient-organizational-agility) explores organisational culture shifts and the importance of top-down support, constant learning, and bottom-up intelligence.
 
 #### 20 Unagile Things to Avoid Saying and Some Better Alternatives
-Here are some ]examples](https://www.scrum.org/resources/blog/20-unagile-things-avoid-saying-and-some-better-alternatives) of twenty small things which you might be tempted to say or to silently agree with, and which are perhaps rather better to avoid.
+Here are some [examples](https://www.scrum.org/resources/blog/20-unagile-things-avoid-saying-and-some-better-alternatives) of twenty small things which you might be tempted to say or to silently agree with, and which are perhaps rather better to avoid.
 
 #### Forget building trust, focus on psychological safety
 This [blog](https://www.scrum.org/resources/blog/forget-building-trust-focus-psychological-safety) and video highlight the distinction between trust and psychological safety in teams. It also explores the potential impacts to be had by teams who don't have psychological safety.
