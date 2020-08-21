@@ -2,7 +2,7 @@
 date: 2020-08-20
 title: Continuous Integration / Continuous Delivery
 categories:
-  - product-ownership
+  - development-team
 description: "Developing and Delivering Products Professionally"
 type: Document
 ---
