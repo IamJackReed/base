@@ -1,8 +1,8 @@
 ---
-date: 2020-08-21
+date: 2020-08-20
 title: Managing Technical Risk
 categories:
-  - product-ownership
+  - development-team
 description: "Developing and Delivering Products Professionally"
 type: Document
 ---
@@ -13,4 +13,4 @@ This [blog](https://www.scrum.org/resources/blog/using-technical-debt-register-s
 This [video](https://www.scrum.org/resources/defer-constraining-commitments) focuses is on how decisions about constraining commitments can be made now or postponed for when you have more information to make the best decisions.
 
 #### A Crystal Ball to Prioritise Technical Debt (GOTO 2017)
-In this [keynote](https://youtu.be/SdUewLCHWvU), Adam Tornhill illustrates the power of analyzing technical debt and provides methods and tools to do so
+In this [keynote](https://youtu.be/SdUewLCHWvU), Adam Tornhill illustrates the power of analyzing technical debt and provides methods and tools to do so.
