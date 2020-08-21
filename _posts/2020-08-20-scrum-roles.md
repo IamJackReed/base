@@ -2,7 +2,7 @@
 date: 2020-08-20
 title: Scrum Roles
 categories:
-  - development-Team
+  - development-team
 description: "Understanding and Applying Scrum"
 type: Document
 ---
