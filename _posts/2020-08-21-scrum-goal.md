@@ -2,7 +2,7 @@
 date: 2020-08-21
 title: Scrum Goals
 categories:
-  - Product-ownership
+  - product-ownership
 description: "Understanding and Applying Scrum"
 type: Document
 ---
