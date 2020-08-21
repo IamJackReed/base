@@ -1,0 +1,28 @@
+---
+development-team:
+  - question: Understanding and Applying Scrum
+    answer: Empiricism, Scrum Values, Scrum Roles, Scrum Events, Scrum Artifacts, Sprint Goal, Done
+  - question: Developing People and Teams
+    answer: Self-Organising Teams
+  - question: Managing Products with Agility
+    answer: Forecasting and Release Planning, Product Value, Product Backlog Management, Stakeholder & Customers
+  - question: Developing and Delivering Products Professionally
+    answer: Emergent Software Development, Managing Technical Risk, Continuous Quality, Continuous Integration / Delivery, Optimising Flow
+  - question: Evolving the Agile Organisation
+    answer: Organisational Design and Culture
+---
+
+<h1>Development Team</h1>
+
+<section class="development-team">
+	<ul>
+		{% for item in page.scrum-mastery %}
+			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
+		{% endfor %}
+	</ul>
+
+	{% for item in page.scrum-mastery %}
+		<h2 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h2>
+		{{ item.answer | markdownify }}
+	{% endfor %}
+</section>
