@@ -19,4 +19,4 @@ This [HBR article](https://hbr.org/2016/09/the-elements-of-value) dives deep int
 Follow the [story](https://www.scrum.org/resources/blog/outcome-mapping-scrum-story-amazing-decisions) of a fictional company as they learn about Outcome Mapping, a technique used to help increase the transparency of a Product Backlog to enable valuable decision making.
 
 #### The Professional Scrum Product Owner Book
-In this [Professional Scrum series book](https://www.scrum.org/resources/professional-scrum-product-owner-book), you’ll learn how to identify where value can be found, measure it, and maximise it throughout your entire product lifecycle. 
+In this [Professional Scrum series book](https://www.scrum.org/resources/professional-scrum-product-owner-book), you’ll learn how to identify where value can be found, measure it, and maximise it throughout your entire product lifecycle.

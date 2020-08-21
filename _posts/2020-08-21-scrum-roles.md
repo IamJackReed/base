@@ -1,5 +1,5 @@
 ---
-date: 2020-08-06
+date: 2020-08-21
 title: Scrum Roles
 categories:
   - product-ownership
