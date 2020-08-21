@@ -16,12 +16,12 @@ development-team:
 
 <section class="development-team">
 	<ul>
-		{% for item in page.scrum-mastery %}
+		{% for item in page.development-team %}
 			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
 		{% endfor %}
 	</ul>
 
-	{% for item in page.scrum-mastery %}
+	{% for item in page.development-team %}
 		<h2 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h2>
 		{{ item.answer | markdownify }}
 	{% endfor %}
