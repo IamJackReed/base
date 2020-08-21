@@ -1,6 +1,6 @@
 ---
 date: 2020-08-20
-title: Continuous Integration / Continuous Delivery
+title: Continuous Integration / Delivery
 categories:
   - development-team
 description: "Developing and Delivering Products Professionally"

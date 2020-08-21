@@ -2,7 +2,7 @@
 date: 2020-08-20
 title: Self-Organising Teams
 categories:
-  - product-ownership
+  - development-team
 description: "Developing People and Teams"
 type: Document
 ---
