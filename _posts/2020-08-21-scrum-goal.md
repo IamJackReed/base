@@ -14,3 +14,12 @@ This [article](https://www.scrum.org/resources/blog/six-reasons-why-you-need-pay
 
 #### Getting to Done: Creating Good Sprint Goals
 This [article](https://www.scrum.org/resources/blog/getting-done-creating-good-sprint-goals) addresses the fact that a lack of clear Sprint Goals is a common challenge creating a "Done" Increment and how to overcome these challenges.
+
+#### Importance of Sprint Goal
+In a 17 page Scrum guide - this [blog](http://pm-powerconsulting.com/blog/importance-of-sprint-goal/) look at why is the ‘Sprint Goal’ mentioned 27 times? What does this say about the significance, value and the power of the Sprint Goal?
+
+#### Five Questions for a Sprint Goal
+This [blog](https://www.scrum.org/resources/blog/five-questions-sprint-goal) looks at how the Sprint Goal is a phrase that can be used in many different ways:
+
+#### Struggling with Sprint Goals
+This [article](https://www.scrum.org/resources/blog/struggling-sprint-goals) explores how having a Sprint Goal in some cases is not easy. Having a good Sprint Goal is even more difficult. It has proven to be a difficult topic for many starting teams.
