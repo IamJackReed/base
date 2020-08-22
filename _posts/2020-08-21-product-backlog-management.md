@@ -14,3 +14,9 @@ This [blog](https://www.scrum.org/resources/blog/myth-14-refinement-required-mee
 
 #### If Your Backlog Is Not Refined Then You Are Doing It Wrong
 This [blog](https://www.scrum.org/resources/blog/if-your-backlog-not-refined-then-you-are-doing-it-wrong) addresses the potential repercussions of an un-refined Product Backlog and what it means to be 'ready'.
+
+#### What is Product Backlog Refinement
+This [article](https://www.visual-paradigm.com/scrum/what-is-product-backlog-refinement/) looks at Product Backlog refinement the act of adding detail, estimates and order to items in the Product Backlog.
+
+#### Product Backlog Refinement is a Scrum Team Responsibility
+In the "Scrum from the Trenches" [blog](https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility) post series I like to address topics that I encounter in practicing Scrum in the real world, with real Scrum Teams.
