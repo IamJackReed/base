@@ -22,4 +22,8 @@ This [article](https://www.visual-paradigm.com/scrum/what-is-product-backlog-ref
 In the "Scrum from the Trenches" [blog](https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility) post series I like to address topics that I encounter in practicing Scrum in the real world, with real Scrum Teams.
 
 #### Capturing Non Functional Requirements
-[Scrum](https://www.scrum.org/forum/scrum-forum/6890/scrum-where-non-functional-work-considerable) - where Non-functional work is considerable
+[Scrum](https://www.scrum.org/forum/scrum-forum/6890/scrum-where-non-functional-work-considerable)... where Non-functional work is considerable
+
+ [How](https://www.linkedin.com/pulse/how-can-agile-teams-capture-non-functional-phil-robinson/) Can Agile Teams Capture Non-Functional Requirements
+
+ What is [Non-Functional](https://www.guru99.com/non-functional-requirement-type-example.html) Requirement? Types and Examples
