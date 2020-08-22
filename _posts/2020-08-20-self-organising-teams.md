@@ -14,3 +14,6 @@ This [blog](https://www.scrum.org/resources/blog/two-ingredients-self-organizati
 
 #### Scrum and XP from the Trenches
 Recommended [book](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) provides a detailed account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year’s time.
+
+#### Self-Organisation, two key ingredients
+This [article](https://www.scrum.org/resources/blog/two-ingredients-self-organization-no-recipe-possible-though) looks at how Scrum is based on self-organised teams. Self-organised teams are able to evolve and adapt quicker in today’s highly complex working environments than traditional command-and-control management structures.
