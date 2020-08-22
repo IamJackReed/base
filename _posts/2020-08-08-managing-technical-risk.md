@@ -14,3 +14,10 @@ In this [Video](https://youtu.be/Gp97xUw9HfU) Professional Scrum Trainer Steve P
 
 #### Managing Risk
 This [blog](https://www.scrum.org/resources/blog/managing-risk) breaks down the different types of risk and how to control them using Scrum and the Scrum Values.
+
+#### Managing Technical Debt
+[Technical Debt & Scrum](https://age-of-product.com/technical-debt-scrum/): Who Is Responsible
+
+How can we register the [technical debt](https://pm.stackexchange.com/questions/24498/how-can-we-register-the-technical-debt-in-scrum/24500#24500) in Scrum
+
+[Technical Debt](https://dzone.com/articles/tech-debt-how-to-balance-between-the-velocity-of-p) How to Balance Between the Velocity of Production and Code Quality

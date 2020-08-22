@@ -20,3 +20,6 @@ This [article](https://www.visual-paradigm.com/scrum/what-is-product-backlog-ref
 
 #### Product Backlog Refinement is a Scrum Team Responsibility
 In the "Scrum from the Trenches" [blog](https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility) post series I like to address topics that I encounter in practicing Scrum in the real world, with real Scrum Teams.
+
+#### Capturing Non Functional Requirements
+[Scrum](https://www.scrum.org/forum/scrum-forum/6890/scrum-where-non-functional-work-considerable) - where Non-functional work is considerable
