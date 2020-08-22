@@ -6,7 +6,7 @@ categories:
 description: "Understanding and Applying Scrum"
 type: Document
 ---
-'_Definition of Ready (DoR) - not mentioned in the Scrum Guide - however, can still be useful depending on context_.
+'_Definition of Ready (DoR) - not mentioned in the Scrum Guide - however, it can still be useful depending on context_.
 
 #### Walking Through a Definition of Ready
 This [article](https://www.scrum.org/resources/blog/walking-through-definition-ready) looks at the Definition of Done, which describes the conditions which must be satisfied before a team’s deliverables can be considered fit for release.
