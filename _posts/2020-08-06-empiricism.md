@@ -22,4 +22,7 @@ In this [blog](https://www.scrum.org/resources/transparency-trenches) Dan Sloan 
 This [blog](https://www.scrum.org/resources/blog/so-what-agile-really-about) looks at 7 Principles of Continuous Innovation are explained, and a real-life example is given of the principles in practice.
 
 #### Agile is Constant Change
-This [blog](https://www.scrum.org/resources/blog/agile-constant-change) looks at ways to keep change going and how to move forward when stuck. 
+This [blog](https://www.scrum.org/resources/blog/agile-constant-change) looks at ways to keep change going and how to move forward when stuck.
+
+#### Velocity in Scrum, actually
+This [article](https://guntherverheyen.com/tag/empiricism/) look at how in Scrum we plan to do are assumptions that need validation by emerging actions and decisions. We make and incrementally change decisions based on what is known

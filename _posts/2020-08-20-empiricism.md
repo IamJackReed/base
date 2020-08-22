@@ -20,3 +20,6 @@ This [blog](https://www.scrum.org/resources/blog/escaping-predictability-trap) a
 
 #### Scrum: A Pocket Guide
 Recommended [pocket guide](https://www.amazon.com/dp/9087537204?tag=readleng-20) provides an insightful understanding of Scrum and agility and conveys clear and concise descriptions throughout.
+
+#### Velocity in Scrum, actually
+This [article](https://guntherverheyen.com/tag/empiricism/) look at how in Scrum we plan to do are assumptions that need validation by emerging actions and decisions. We make and incrementally change decisions based on what is known

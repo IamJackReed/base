@@ -26,3 +26,6 @@ This [blog](https://www.scrum.org/resources/blog/escaping-predictability-trap) a
 
 #### The Empirical Product Owner
 This [webcast](https://www.scrum.org/resources/empirical-product-owner) explores the combination of empiricism and Product Ownership in agile development.
+
+#### Velocity in Scrum, actually
+This [article](https://guntherverheyen.com/tag/empiricism/) look at how in Scrum we plan to do are assumptions that need validation by emerging actions and decisions. We make and incrementally change decisions based on what is known
